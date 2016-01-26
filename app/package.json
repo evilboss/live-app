@@ -1,0 +1,10 @@
+{
+  "name": "live-event",
+  "version": "1.0.0",
+  "description": "Custom Live Event Checkout Processing for Jason Capital Live Events.",
+  "scripts": {
+    "start": "meteor --settings ../environments/local/settings-development.json",
+    "staging": "mupx deploy --config ../environments/staging/mup-staging.json --settings ../environments/staging/settings-staging.json",
+    "production": "mupx deploy --config ../environments/staging/mup-production.json --settings ../environments/staging/settings-production.json"
+  }
+}

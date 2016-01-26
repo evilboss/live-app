@@ -1,0 +1,12 @@
+{
+  "public": {
+    "supportEmail": "steve@steveovens.com",
+    "adminEmail": "steve+admin@steveovens.com",
+    "stripe": "pk_test_1X90k7MKdAlWAgm35WrytLQ3",
+    "logo": "https://s3.amazonaws.com/jcaplib/images/jc-logo-no-text.png"
+  },
+  "private": {
+    "MAIL_URL": "smtp://postmaster%40sandbox40d144b9ba9c4577b0bbd0d9ba4af634.mailgun.org:aed532135628254c0343b4e04b7347fe@smtp.mailgun.org:587",
+    "stripe": "sk_test_deztR07Xb9Xk8qrGlThbCeBh"
+  }
+}

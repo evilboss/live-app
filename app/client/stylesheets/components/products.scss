@@ -1,0 +1,6 @@
+tr.premium {
+  background-color: rgb(250,250,230);
+}
+.table-striped > tbody > tr.premium:nth-of-type(odd) {
+  background-color: #f9f9f0;
+}
